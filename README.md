@@ -18,5 +18,10 @@
 
 3. **Archivos CSV originales:**  
    - La carpeta `CSVCrimenes` con CSV de **EEUU, Londres, México y Philadelphia** no está incluida debido a su tamaño (700.000–1.000.000 filas por archivo), que supera los límites de GitHub y Git LFS.  
-   - Se proporciona la lógica para organizar los paths en el repositorio.  
+   - Se proporciona la lógica para organizar la carpeta y archivos en el repositorio.
+     ![Archivos](image.png)
    - Los archivos se pueden descargar desde Kaggle.
+     Philadelphia: https://www.kaggle.com/datasets/mchirico/philadelphiacrimedata
+     EEEUU: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+     Londres: https://www.kaggle.com/datasets/jboysen/london-crime
+     México: https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva
