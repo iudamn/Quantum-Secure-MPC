@@ -16,7 +16,11 @@
      - `CantidadDatos`: scripts que generan archivos con la cantidad específica de filas a trabajar a la posterioridad. 
      - `CrimenesAnalisis`: análisis y transformaciones de los CSV, consolidando resultados y considerando distintos idiomas. Mapeos y transformaciones futuras en el ámbito del Análisis de Datos.
 
-3. **Archivos CSV originales:**  
+3. **Tercera versión orientada a Tolerancia a Fallos y Thresholds:**
+   - Scripts de implementación MPC versión Cuántica orientados al Análisis de Thresholds y el análisis de la cantidad de shares-secretos, y los participantes necesarios para descifrar los secretos.
+   - Heatmap, tabla CSV, resumen tipos de delitos.
+
+5. **Archivos CSV originales:**  
    - La carpeta `CSVCrimenes` con CSV de **EEUU, Londres, México y Philadelphia** no está incluida debido a su tamaño (700.000–1.000.000 filas por archivo), que supera los límites de GitHub y Git LFS.  
    - Se proporciona la lógica para organizar la carpeta y archivos en el repositorio.
      ![Archivos](image.png)
