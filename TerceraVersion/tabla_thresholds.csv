@@ -1,0 +1,481 @@
+Delito,n_shares,threshold,shares_perdidos,secreto_reconstruido,correcto
+Homicidio,4,2,0,18369.0,True
+Homicidio,4,2,1,18369.0,True
+Homicidio,4,2,2,18369.0,True
+Homicidio,4,2,3,,False
+Homicidio,4,3,0,18368.0,False
+Homicidio,4,3,1,18368.0,False
+Homicidio,4,3,2,,False
+Homicidio,4,3,3,,False
+Homicidio,4,4,0,18369.0,True
+Homicidio,4,4,1,,False
+Homicidio,4,4,2,,False
+Homicidio,4,4,3,,False
+Lesiones,4,2,0,18368.0,False
+Lesiones,4,2,1,18368.0,False
+Lesiones,4,2,2,18369.0,True
+Lesiones,4,2,3,,False
+Lesiones,4,3,0,18369.0,True
+Lesiones,4,3,1,18369.0,True
+Lesiones,4,3,2,,False
+Lesiones,4,3,3,,False
+Lesiones,4,4,0,18369.0,True
+Lesiones,4,4,1,,False
+Lesiones,4,4,2,,False
+Lesiones,4,4,3,,False
+Feminicidio,4,2,0,8163.0,False
+Feminicidio,4,2,1,8163.0,False
+Feminicidio,4,2,2,8163.0,False
+Feminicidio,4,2,3,,False
+Feminicidio,4,3,0,8165.0,False
+Feminicidio,4,3,1,8164.0,True
+Feminicidio,4,3,2,,False
+Feminicidio,4,3,3,,False
+Feminicidio,4,4,0,8164.0,True
+Feminicidio,4,4,1,,False
+Feminicidio,4,4,2,,False
+Feminicidio,4,4,3,,False
+Aborto,4,2,0,2041.0,True
+Aborto,4,2,1,2042.0,False
+Aborto,4,2,2,2042.0,False
+Aborto,4,2,3,,False
+Aborto,4,3,0,2038.0,False
+Aborto,4,3,1,2039.0,False
+Aborto,4,3,2,,False
+Aborto,4,3,3,,False
+Aborto,4,4,0,2043.0,False
+Aborto,4,4,1,,False
+Aborto,4,4,2,,False
+Aborto,4,4,3,,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,2,0,2040.0,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,2,1,2041.0,True
+Otros delitos que atentan contra la vida y la integridad corporal,4,2,2,2040.0,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,2,3,,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,3,0,2041.0,True
+Otros delitos que atentan contra la vida y la integridad corporal,4,3,1,2042.0,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,3,2,,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,3,3,,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,4,0,2043.0,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,4,1,,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,4,2,,False
+Otros delitos que atentan contra la vida y la integridad corporal,4,4,3,,False
+Secuestro,4,2,0,10204.0,False
+Secuestro,4,2,1,10206.0,False
+Secuestro,4,2,2,10204.0,False
+Secuestro,4,2,3,,False
+Secuestro,4,3,0,10204.0,False
+Secuestro,4,3,1,10203.0,False
+Secuestro,4,3,2,,False
+Secuestro,4,3,3,,False
+Secuestro,4,4,0,10205.0,True
+Secuestro,4,4,1,,False
+Secuestro,4,4,2,,False
+Secuestro,4,4,3,,False
+Tráfico de menores,4,2,0,2041.0,True
+Tráfico de menores,4,2,1,2040.0,False
+Tráfico de menores,4,2,2,2040.0,False
+Tráfico de menores,4,2,3,,False
+Tráfico de menores,4,3,0,2042.0,False
+Tráfico de menores,4,3,1,2041.0,True
+Tráfico de menores,4,3,2,,False
+Tráfico de menores,4,3,3,,False
+Tráfico de menores,4,4,0,2045.0,False
+Tráfico de menores,4,4,1,,False
+Tráfico de menores,4,4,2,,False
+Tráfico de menores,4,4,3,,False
+Rapto,4,2,0,2040.0,False
+Rapto,4,2,1,2040.0,False
+Rapto,4,2,2,2040.0,False
+Rapto,4,2,3,,False
+Rapto,4,3,0,2038.0,False
+Rapto,4,3,1,2043.0,False
+Rapto,4,3,2,,False
+Rapto,4,3,3,,False
+Rapto,4,4,0,2042.0,False
+Rapto,4,4,1,,False
+Rapto,4,4,2,,False
+Rapto,4,4,3,,False
+Otros delitos que atentan contra la libertad personal,4,2,0,2040.0,False
+Otros delitos que atentan contra la libertad personal,4,2,1,2040.0,False
+Otros delitos que atentan contra la libertad personal,4,2,2,2041.0,True
+Otros delitos que atentan contra la libertad personal,4,2,3,,False
+Otros delitos que atentan contra la libertad personal,4,3,0,2041.0,True
+Otros delitos que atentan contra la libertad personal,4,3,1,2040.0,False
+Otros delitos que atentan contra la libertad personal,4,3,2,,False
+Otros delitos que atentan contra la libertad personal,4,3,3,,False
+Otros delitos que atentan contra la libertad personal,4,4,0,2040.0,False
+Otros delitos que atentan contra la libertad personal,4,4,1,,False
+Otros delitos que atentan contra la libertad personal,4,4,2,,False
+Otros delitos que atentan contra la libertad personal,4,4,3,,False
+Abuso sexual,4,2,0,2041.0,True
+Abuso sexual,4,2,1,2040.0,False
+Abuso sexual,4,2,2,2040.0,False
+Abuso sexual,4,2,3,,False
+Abuso sexual,4,3,0,2039.0,False
+Abuso sexual,4,3,1,2043.0,False
+Abuso sexual,4,3,2,,False
+Abuso sexual,4,3,3,,False
+Abuso sexual,4,4,0,2045.0,False
+Abuso sexual,4,4,1,,False
+Abuso sexual,4,4,2,,False
+Abuso sexual,4,4,3,,False
+Acoso sexual,4,2,0,2040.0,False
+Acoso sexual,4,2,1,2040.0,False
+Acoso sexual,4,2,2,2041.0,True
+Acoso sexual,4,2,3,,False
+Acoso sexual,4,3,0,2040.0,False
+Acoso sexual,4,3,1,2041.0,True
+Acoso sexual,4,3,2,,False
+Acoso sexual,4,3,3,,False
+Acoso sexual,4,4,0,2039.0,False
+Acoso sexual,4,4,1,,False
+Acoso sexual,4,4,2,,False
+Acoso sexual,4,4,3,,False
+Hostigamiento sexual,4,2,0,2041.0,True
+Hostigamiento sexual,4,2,1,2040.0,False
+Hostigamiento sexual,4,2,2,2041.0,True
+Hostigamiento sexual,4,2,3,,False
+Hostigamiento sexual,4,3,0,2040.0,False
+Hostigamiento sexual,4,3,1,2040.0,False
+Hostigamiento sexual,4,3,2,,False
+Hostigamiento sexual,4,3,3,,False
+Hostigamiento sexual,4,4,0,2042.0,False
+Hostigamiento sexual,4,4,1,,False
+Hostigamiento sexual,4,4,2,,False
+Hostigamiento sexual,4,4,3,,False
+Violación simple,4,2,0,2040.0,False
+Violación simple,4,2,1,2040.0,False
+Violación simple,4,2,2,2041.0,True
+Violación simple,4,2,3,,False
+Violación simple,4,3,0,2041.0,True
+Violación simple,4,3,1,2040.0,False
+Violación simple,4,3,2,,False
+Violación simple,4,3,3,,False
+Violación simple,4,4,0,2039.0,False
+Violación simple,4,4,1,,False
+Violación simple,4,4,2,,False
+Violación simple,4,4,3,,False
+Violación equiparada,4,2,0,2041.0,True
+Violación equiparada,4,2,1,2041.0,True
+Violación equiparada,4,2,2,2041.0,True
+Violación equiparada,4,2,3,,False
+Violación equiparada,4,3,0,2040.0,False
+Violación equiparada,4,3,1,2040.0,False
+Violación equiparada,4,3,2,,False
+Violación equiparada,4,3,3,,False
+Violación equiparada,4,4,0,2041.0,True
+Violación equiparada,4,4,1,,False
+Violación equiparada,4,4,2,,False
+Violación equiparada,4,4,3,,False
+Incesto,4,2,0,2041.0,True
+Incesto,4,2,1,2040.0,False
+Incesto,4,2,2,2040.0,False
+Incesto,4,2,3,,False
+Incesto,4,3,0,2041.0,True
+Incesto,4,3,1,2041.0,True
+Incesto,4,3,2,,False
+Incesto,4,3,3,,False
+Incesto,4,4,0,2039.0,False
+Incesto,4,4,1,,False
+Incesto,4,4,2,,False
+Incesto,4,4,3,,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,2,0,2041.0,True
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,2,1,2040.0,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,2,2,2041.0,True
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,2,3,,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,3,0,2041.0,True
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,3,1,2041.0,True
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,3,2,,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,3,3,,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,4,0,2041.0,True
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,4,1,,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,4,2,,False
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,4,3,,False
+Robo,4,2,0,73476.0,True
+Robo,4,2,1,73475.0,False
+Robo,4,2,2,73477.0,False
+Robo,4,2,3,,False
+Robo,4,3,0,73475.0,False
+Robo,4,3,1,73475.0,False
+Robo,4,3,2,,False
+Robo,4,3,3,,False
+Robo,4,4,0,73479.0,False
+Robo,4,4,1,,False
+Robo,4,4,2,,False
+Robo,4,4,3,,False
+Fraude,4,2,0,2040.0,False
+Fraude,4,2,1,2042.0,False
+Fraude,4,2,2,2040.0,False
+Fraude,4,2,3,,False
+Fraude,4,3,0,2040.0,False
+Fraude,4,3,1,2039.0,False
+Fraude,4,3,2,,False
+Fraude,4,3,3,,False
+Fraude,4,4,0,2044.0,False
+Fraude,4,4,1,,False
+Fraude,4,4,2,,False
+Fraude,4,4,3,,False
+Abuso de confianza,4,2,0,2040.0,False
+Abuso de confianza,4,2,1,2041.0,True
+Abuso de confianza,4,2,2,2040.0,False
+Abuso de confianza,4,2,3,,False
+Abuso de confianza,4,3,0,2040.0,False
+Abuso de confianza,4,3,1,2041.0,True
+Abuso de confianza,4,3,2,,False
+Abuso de confianza,4,3,3,,False
+Abuso de confianza,4,4,0,2041.0,True
+Abuso de confianza,4,4,1,,False
+Abuso de confianza,4,4,2,,False
+Abuso de confianza,4,4,3,,False
+Extorsión,4,2,0,2042.0,False
+Extorsión,4,2,1,2041.0,True
+Extorsión,4,2,2,2040.0,False
+Extorsión,4,2,3,,False
+Extorsión,4,3,0,2042.0,False
+Extorsión,4,3,1,2040.0,False
+Extorsión,4,3,2,,False
+Extorsión,4,3,3,,False
+Extorsión,4,4,0,2042.0,False
+Extorsión,4,4,1,,False
+Extorsión,4,4,2,,False
+Extorsión,4,4,3,,False
+Daño a la propiedad,4,2,0,2040.0,False
+Daño a la propiedad,4,2,1,2042.0,False
+Daño a la propiedad,4,2,2,2041.0,True
+Daño a la propiedad,4,2,3,,False
+Daño a la propiedad,4,3,0,2041.0,True
+Daño a la propiedad,4,3,1,2039.0,False
+Daño a la propiedad,4,3,2,,False
+Daño a la propiedad,4,3,3,,False
+Daño a la propiedad,4,4,0,2044.0,False
+Daño a la propiedad,4,4,1,,False
+Daño a la propiedad,4,4,2,,False
+Daño a la propiedad,4,4,3,,False
+Despojo,4,2,0,2041.0,True
+Despojo,4,2,1,2040.0,False
+Despojo,4,2,2,2041.0,True
+Despojo,4,2,3,,False
+Despojo,4,3,0,2043.0,False
+Despojo,4,3,1,2041.0,True
+Despojo,4,3,2,,False
+Despojo,4,3,3,,False
+Despojo,4,4,0,2038.0,False
+Despojo,4,4,1,,False
+Despojo,4,4,2,,False
+Despojo,4,4,3,,False
+Otros delitos contra el patrimonio,4,2,0,2039.0,False
+Otros delitos contra el patrimonio,4,2,1,2039.0,False
+Otros delitos contra el patrimonio,4,2,2,2039.0,False
+Otros delitos contra el patrimonio,4,2,3,,False
+Otros delitos contra el patrimonio,4,3,0,2040.0,True
+Otros delitos contra el patrimonio,4,3,1,2040.0,True
+Otros delitos contra el patrimonio,4,3,2,,False
+Otros delitos contra el patrimonio,4,3,3,,False
+Otros delitos contra el patrimonio,4,4,0,2041.0,False
+Otros delitos contra el patrimonio,4,4,1,,False
+Otros delitos contra el patrimonio,4,4,2,,False
+Otros delitos contra el patrimonio,4,4,3,,False
+Violencia familiar,4,2,0,2039.0,False
+Violencia familiar,4,2,1,2039.0,False
+Violencia familiar,4,2,2,2040.0,True
+Violencia familiar,4,2,3,,False
+Violencia familiar,4,3,0,2038.0,False
+Violencia familiar,4,3,1,2040.0,True
+Violencia familiar,4,3,2,,False
+Violencia familiar,4,3,3,,False
+Violencia familiar,4,4,0,2042.0,False
+Violencia familiar,4,4,1,,False
+Violencia familiar,4,4,2,,False
+Violencia familiar,4,4,3,,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,2,0,2040.0,True
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,2,1,2039.0,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,2,2,2039.0,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,2,3,,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,3,0,2040.0,True
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,3,1,2040.0,True
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,3,2,,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,3,3,,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,4,0,2040.0,True
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,4,1,,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,4,2,,False
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,4,3,,False
+Incumplimiento de obligaciones de asistencia familiar,4,2,0,2040.0,True
+Incumplimiento de obligaciones de asistencia familiar,4,2,1,2039.0,False
+Incumplimiento de obligaciones de asistencia familiar,4,2,2,2039.0,False
+Incumplimiento de obligaciones de asistencia familiar,4,2,3,,False
+Incumplimiento de obligaciones de asistencia familiar,4,3,0,2040.0,True
+Incumplimiento de obligaciones de asistencia familiar,4,3,1,2040.0,True
+Incumplimiento de obligaciones de asistencia familiar,4,3,2,,False
+Incumplimiento de obligaciones de asistencia familiar,4,3,3,,False
+Incumplimiento de obligaciones de asistencia familiar,4,4,0,2039.0,False
+Incumplimiento de obligaciones de asistencia familiar,4,4,1,,False
+Incumplimiento de obligaciones de asistencia familiar,4,4,2,,False
+Incumplimiento de obligaciones de asistencia familiar,4,4,3,,False
+Otros delitos contra la familia,4,2,0,2039.0,False
+Otros delitos contra la familia,4,2,1,2040.0,True
+Otros delitos contra la familia,4,2,2,2039.0,False
+Otros delitos contra la familia,4,2,3,,False
+Otros delitos contra la familia,4,3,0,2039.0,False
+Otros delitos contra la familia,4,3,1,2040.0,True
+Otros delitos contra la familia,4,3,2,,False
+Otros delitos contra la familia,4,3,3,,False
+Otros delitos contra la familia,4,4,0,2044.0,False
+Otros delitos contra la familia,4,4,1,,False
+Otros delitos contra la familia,4,4,2,,False
+Otros delitos contra la familia,4,4,3,,False
+Corrupción de menores,4,2,0,2040.0,True
+Corrupción de menores,4,2,1,2039.0,False
+Corrupción de menores,4,2,2,2040.0,True
+Corrupción de menores,4,2,3,,False
+Corrupción de menores,4,3,0,2040.0,True
+Corrupción de menores,4,3,1,2040.0,True
+Corrupción de menores,4,3,2,,False
+Corrupción de menores,4,3,3,,False
+Corrupción de menores,4,4,0,2040.0,True
+Corrupción de menores,4,4,1,,False
+Corrupción de menores,4,4,2,,False
+Corrupción de menores,4,4,3,,False
+Trata de personas,4,2,0,2040.0,True
+Trata de personas,4,2,1,2039.0,False
+Trata de personas,4,2,2,2039.0,False
+Trata de personas,4,2,3,,False
+Trata de personas,4,3,0,2040.0,True
+Trata de personas,4,3,1,2040.0,True
+Trata de personas,4,3,2,,False
+Trata de personas,4,3,3,,False
+Trata de personas,4,4,0,2040.0,True
+Trata de personas,4,4,1,,False
+Trata de personas,4,4,2,,False
+Trata de personas,4,4,3,,False
+Otros delitos contra la sociedad,4,2,0,2039.0,False
+Otros delitos contra la sociedad,4,2,1,2039.0,False
+Otros delitos contra la sociedad,4,2,2,2040.0,True
+Otros delitos contra la sociedad,4,2,3,,False
+Otros delitos contra la sociedad,4,3,0,2040.0,True
+Otros delitos contra la sociedad,4,3,1,2038.0,False
+Otros delitos contra la sociedad,4,3,2,,False
+Otros delitos contra la sociedad,4,3,3,,False
+Otros delitos contra la sociedad,4,4,0,2037.0,False
+Otros delitos contra la sociedad,4,4,1,,False
+Otros delitos contra la sociedad,4,4,2,,False
+Otros delitos contra la sociedad,4,4,3,,False
+Narcomenudeo,4,2,0,2040.0,True
+Narcomenudeo,4,2,1,2039.0,False
+Narcomenudeo,4,2,2,2040.0,True
+Narcomenudeo,4,2,3,,False
+Narcomenudeo,4,3,0,2040.0,True
+Narcomenudeo,4,3,1,2039.0,False
+Narcomenudeo,4,3,2,,False
+Narcomenudeo,4,3,3,,False
+Narcomenudeo,4,4,0,2038.0,False
+Narcomenudeo,4,4,1,,False
+Narcomenudeo,4,4,2,,False
+Narcomenudeo,4,4,3,,False
+Amenazas,4,2,0,2039.0,False
+Amenazas,4,2,1,2040.0,True
+Amenazas,4,2,2,2039.0,False
+Amenazas,4,2,3,,False
+Amenazas,4,3,0,2039.0,False
+Amenazas,4,3,1,2040.0,True
+Amenazas,4,3,2,,False
+Amenazas,4,3,3,,False
+Amenazas,4,4,0,2040.0,True
+Amenazas,4,4,1,,False
+Amenazas,4,4,2,,False
+Amenazas,4,4,3,,False
+Allanamiento de morada,4,2,0,2040.0,True
+Allanamiento de morada,4,2,1,2040.0,True
+Allanamiento de morada,4,2,2,2040.0,True
+Allanamiento de morada,4,2,3,,False
+Allanamiento de morada,4,3,0,2039.0,False
+Allanamiento de morada,4,3,1,2039.0,False
+Allanamiento de morada,4,3,2,,False
+Allanamiento de morada,4,3,3,,False
+Allanamiento de morada,4,4,0,2039.0,False
+Allanamiento de morada,4,4,1,,False
+Allanamiento de morada,4,4,2,,False
+Allanamiento de morada,4,4,3,,False
+Evasión de presos,4,2,0,2040.0,True
+Evasión de presos,4,2,1,2039.0,False
+Evasión de presos,4,2,2,2039.0,False
+Evasión de presos,4,2,3,,False
+Evasión de presos,4,3,0,2039.0,False
+Evasión de presos,4,3,1,2040.0,True
+Evasión de presos,4,3,2,,False
+Evasión de presos,4,3,3,,False
+Evasión de presos,4,4,0,2040.0,True
+Evasión de presos,4,4,1,,False
+Evasión de presos,4,4,2,,False
+Evasión de presos,4,4,3,,False
+Falsedad,4,2,0,2039.0,False
+Falsedad,4,2,1,2040.0,True
+Falsedad,4,2,2,2039.0,False
+Falsedad,4,2,3,,False
+Falsedad,4,3,0,2040.0,True
+Falsedad,4,3,1,2039.0,False
+Falsedad,4,3,2,,False
+Falsedad,4,3,3,,False
+Falsedad,4,4,0,2040.0,True
+Falsedad,4,4,1,,False
+Falsedad,4,4,2,,False
+Falsedad,4,4,3,,False
+Falsificación,4,2,0,2040.0,True
+Falsificación,4,2,1,2040.0,True
+Falsificación,4,2,2,2039.0,False
+Falsificación,4,2,3,,False
+Falsificación,4,3,0,2042.0,False
+Falsificación,4,3,1,2040.0,True
+Falsificación,4,3,2,,False
+Falsificación,4,3,3,,False
+Falsificación,4,4,0,2044.0,False
+Falsificación,4,4,1,,False
+Falsificación,4,4,2,,False
+Falsificación,4,4,3,,False
+Contra el medio ambiente,4,2,0,2039.0,False
+Contra el medio ambiente,4,2,1,2039.0,False
+Contra el medio ambiente,4,2,2,2040.0,True
+Contra el medio ambiente,4,2,3,,False
+Contra el medio ambiente,4,3,0,2040.0,True
+Contra el medio ambiente,4,3,1,2040.0,True
+Contra el medio ambiente,4,3,2,,False
+Contra el medio ambiente,4,3,3,,False
+Contra el medio ambiente,4,4,0,2041.0,False
+Contra el medio ambiente,4,4,1,,False
+Contra el medio ambiente,4,4,2,,False
+Contra el medio ambiente,4,4,3,,False
+Delitos cometidos por servidores públicos,4,2,0,2040.0,True
+Delitos cometidos por servidores públicos,4,2,1,2039.0,False
+Delitos cometidos por servidores públicos,4,2,2,2039.0,False
+Delitos cometidos por servidores públicos,4,2,3,,False
+Delitos cometidos por servidores públicos,4,3,0,2040.0,True
+Delitos cometidos por servidores públicos,4,3,1,2040.0,True
+Delitos cometidos por servidores públicos,4,3,2,,False
+Delitos cometidos por servidores públicos,4,3,3,,False
+Delitos cometidos por servidores públicos,4,4,0,2040.0,True
+Delitos cometidos por servidores públicos,4,4,1,,False
+Delitos cometidos por servidores públicos,4,4,2,,False
+Delitos cometidos por servidores públicos,4,4,3,,False
+Electorales,4,2,0,2039.0,False
+Electorales,4,2,1,2039.0,False
+Electorales,4,2,2,2039.0,False
+Electorales,4,2,3,,False
+Electorales,4,3,0,2040.0,True
+Electorales,4,3,1,2039.0,False
+Electorales,4,3,2,,False
+Electorales,4,3,3,,False
+Electorales,4,4,0,2040.0,True
+Electorales,4,4,1,,False
+Electorales,4,4,2,,False
+Electorales,4,4,3,,False
+Otros delitos del Fuero Común,4,2,0,2040.0,True
+Otros delitos del Fuero Común,4,2,1,2040.0,True
+Otros delitos del Fuero Común,4,2,2,2039.0,False
+Otros delitos del Fuero Común,4,2,3,,False
+Otros delitos del Fuero Común,4,3,0,2039.0,False
+Otros delitos del Fuero Común,4,3,1,2040.0,True
+Otros delitos del Fuero Común,4,3,2,,False
+Otros delitos del Fuero Común,4,3,3,,False
+Otros delitos del Fuero Común,4,4,0,2040.0,True
+Otros delitos del Fuero Común,4,4,1,,False
+Otros delitos del Fuero Común,4,4,2,,False
+Otros delitos del Fuero Común,4,4,3,,False

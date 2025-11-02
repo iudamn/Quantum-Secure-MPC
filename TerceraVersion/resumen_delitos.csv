@@ -1,0 +1,121 @@
+Delito,threshold,tasa_exito
+Aborto,2,25.0
+Aborto,3,0.0
+Aborto,4,0.0
+Abuso de confianza,2,25.0
+Abuso de confianza,3,25.0
+Abuso de confianza,4,25.0
+Abuso sexual,2,25.0
+Abuso sexual,3,0.0
+Abuso sexual,4,0.0
+Acoso sexual,2,25.0
+Acoso sexual,3,25.0
+Acoso sexual,4,0.0
+Allanamiento de morada,2,75.0
+Allanamiento de morada,3,0.0
+Allanamiento de morada,4,0.0
+Amenazas,2,25.0
+Amenazas,3,25.0
+Amenazas,4,25.0
+Contra el medio ambiente,2,25.0
+Contra el medio ambiente,3,50.0
+Contra el medio ambiente,4,0.0
+Corrupción de menores,2,50.0
+Corrupción de menores,3,50.0
+Corrupción de menores,4,25.0
+Daño a la propiedad,2,25.0
+Daño a la propiedad,3,25.0
+Daño a la propiedad,4,0.0
+Delitos cometidos por servidores públicos,2,25.0
+Delitos cometidos por servidores públicos,3,50.0
+Delitos cometidos por servidores públicos,4,25.0
+Despojo,2,50.0
+Despojo,3,25.0
+Despojo,4,0.0
+Electorales,2,0.0
+Electorales,3,25.0
+Electorales,4,25.0
+Evasión de presos,2,25.0
+Evasión de presos,3,25.0
+Evasión de presos,4,25.0
+Extorsión,2,25.0
+Extorsión,3,0.0
+Extorsión,4,0.0
+Falsedad,2,25.0
+Falsedad,3,25.0
+Falsedad,4,25.0
+Falsificación,2,50.0
+Falsificación,3,25.0
+Falsificación,4,0.0
+Feminicidio,2,0.0
+Feminicidio,3,25.0
+Feminicidio,4,25.0
+Fraude,2,0.0
+Fraude,3,0.0
+Fraude,4,0.0
+Homicidio,2,75.0
+Homicidio,3,0.0
+Homicidio,4,25.0
+Hostigamiento sexual,2,50.0
+Hostigamiento sexual,3,0.0
+Hostigamiento sexual,4,0.0
+Incesto,2,25.0
+Incesto,3,50.0
+Incesto,4,0.0
+Incumplimiento de obligaciones de asistencia familiar,2,25.0
+Incumplimiento de obligaciones de asistencia familiar,3,50.0
+Incumplimiento de obligaciones de asistencia familiar,4,0.0
+Lesiones,2,25.0
+Lesiones,3,50.0
+Lesiones,4,25.0
+Narcomenudeo,2,50.0
+Narcomenudeo,3,25.0
+Narcomenudeo,4,0.0
+Otros delitos contra el patrimonio,2,0.0
+Otros delitos contra el patrimonio,3,50.0
+Otros delitos contra el patrimonio,4,0.0
+Otros delitos contra la familia,2,25.0
+Otros delitos contra la familia,3,25.0
+Otros delitos contra la familia,4,0.0
+Otros delitos contra la sociedad,2,25.0
+Otros delitos contra la sociedad,3,25.0
+Otros delitos contra la sociedad,4,0.0
+Otros delitos del Fuero Común,2,50.0
+Otros delitos del Fuero Común,3,25.0
+Otros delitos del Fuero Común,4,25.0
+Otros delitos que atentan contra la libertad personal,2,25.0
+Otros delitos que atentan contra la libertad personal,3,25.0
+Otros delitos que atentan contra la libertad personal,4,0.0
+Otros delitos que atentan contra la libertad y la seguridad sexual,2,50.0
+Otros delitos que atentan contra la libertad y la seguridad sexual,3,50.0
+Otros delitos que atentan contra la libertad y la seguridad sexual,4,25.0
+Otros delitos que atentan contra la vida y la integridad corporal,2,25.0
+Otros delitos que atentan contra la vida y la integridad corporal,3,25.0
+Otros delitos que atentan contra la vida y la integridad corporal,4,0.0
+Rapto,2,0.0
+Rapto,3,0.0
+Rapto,4,0.0
+Robo,2,25.0
+Robo,3,0.0
+Robo,4,0.0
+Secuestro,2,0.0
+Secuestro,3,0.0
+Secuestro,4,25.0
+Trata de personas,2,25.0
+Trata de personas,3,50.0
+Trata de personas,4,25.0
+Tráfico de menores,2,25.0
+Tráfico de menores,3,25.0
+Tráfico de menores,4,0.0
+Violación equiparada,2,75.0
+Violación equiparada,3,0.0
+Violación equiparada,4,25.0
+Violación simple,2,25.0
+Violación simple,3,25.0
+Violación simple,4,0.0
+Violencia de género en todas sus modalidades distinta a la violencia familiar,2,25.0
+Violencia de género en todas sus modalidades distinta a la violencia familiar,3,50.0
+Violencia de género en todas sus modalidades distinta a la violencia familiar,4,25.0
+Violencia familiar,2,25.0
+Violencia familiar,3,25.0
+Violencia familiar,4,0.0
